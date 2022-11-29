@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/firstbackground.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/Ok.png</file>
+        <file>img/RED (5).png</file>
+        <file>img/red.png</file>
+        <file>img/mdplogin.jpg</file>
+        <file>img/logologin.jpg</file>
+        <file>img/bg login.jpg</file>
+        <file>img/backg.jpg</file>
+        <file>img/icons8-user-48.png</file>
+        <file>img/1946429.png</file>
+        <file>img/GIF.gif</file>
+        <file>img/logo team (1).jpg</file>
+        <file>img/814f8b0bdfdc2f89ad5ac44e80dad22a.jpg</file>
+        <file>img/pnghut_microphone-internet-radio-graphic-designer.png</file>
+        <file>img/radio.jpg</file>
+        <file>img/microphone-logo-design-inspiration_57043-231.webp</file>
+        <file>img/on air image.png</file>
+        <file>img/user_animated.gif</file>
+        <file>img/profile.gif</file>
+        <file>img/podcast (1).gif</file>
+        <file>img/podcast.png</file>
+        <file>img/ezgif.com-gif-maker.gif</file>
+        <file>img/giphy (1).gif</file>
+        <file>img/giphy (2).gif</file>
+        <file>img/giphy (2) (1).gif</file>
+        <file>img/103-1035255_online-radio.jpg</file>
+        <file>img/202036.jpg</file>
+        <file>img/130-1305877_black-social-media-logo-png-transparent-png.png</file>
+        <file>img/kisspng-social-media-computer-icons-social-network-do-not-conform-to-social-morality-5aec563338c9a1.6380052915254380032326.png</file>
+        <file>img/guests.png</file>
+        <file>img/giphy (2) (2).gif</file>
+        <file>img/radio1.jpg</file>
+        <file>img/badge.png</file>
+        <file>img/badge2.png</file>
+        <file>img/cameras.gif</file>
+    </qresource>
+</RCC>
